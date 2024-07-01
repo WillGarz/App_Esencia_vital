@@ -1,0 +1,13 @@
+@import '~bootstrap/scss/bootstrap';
+
+.fondo {
+    background-image: url('/images/fondo.jpg');
+    background-size: 100% 100vh;
+    /* Tamaño de la imagen de fondo */
+    background-position: center top;
+    /* Posición de la imagen de fondo */
+    height: 100vh;
+    /* Altura del elemento */
+}
+
+
